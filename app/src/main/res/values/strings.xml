@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">GUI</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="submitButtonName">Oceny</string>
+    <string name="previous">Previous</string>
+    <string name="nameText">Imie:</string>
+    <string name="nameHint">Andrzej</string>
+    <string name="surnameText">Nazwisko:</string>
+    <string name="surnameHint">Kowalski</string>
+    <string name="gradesText">Liczba ocen:</string>
+    <string name="gradesHint">Wpisz liczbę ocen(5–15)</string>
+    <string name="errorMissingText">Pole nie może być puste</string>
+    <string name="errorNotValidText">Pole nie może zawierać liczby i znaki specjalne</string>
+    <string name="errorGradeNotInAScope">Niepoprawna liczba ocen</string>
+    <string name="two" translatable="false">2</string>
+    <string name="three" translatable="false">3</string>
+    <string name="four" translatable="false">4</string>
+    <string name="five" translatable="false">5</string>
+    <string name="srednia">Oblicz średnią</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="your_srednia_label">Twoja średnia to: </string>
+    <string name="congrats">Zaliczyłeś!</string>
+    <string name="oh_no">XD WARUNEK</string>
+    <string-array name="classes">
+        <item>Angielski</item>
+        <item>Polski</item>
+        <item>Matematyka</item>
+        <item>Geografia</item>
+        <item>Fizyka</item>
+        <item>WF</item>
+        <item>PP</item>
+        <item>Biologia</item>
+        <item>Chemia</item>
+        <item>Historia</item>
+        <item>Elektrotechnika</item>
+        <item>Informatyka</item>
+        <item>WOS</item>
+        <item>Programowanie</item>
+        <item>Kabelki</item>
+    </string-array>
+</resources>
